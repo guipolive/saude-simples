@@ -14,3 +14,17 @@ a {
 * {
   box-sizing: border-box;
 }
+
+button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+input {
+  outline: none;
+}
+
+.container {
+  background-color: #4a9489;
+}
